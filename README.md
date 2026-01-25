@@ -1,12 +1,12 @@
 ### Hi there 👋</br>
-###### I'm **candy3157**, a **Security Developer** based in Republic of Korea.</br>
-###### I am currently studying in the Department of Information Security at Daejeon University.</br>
-###### I make the things I imagine into reality.</br>
-###### If there is an idea that comes to my mind, I try to make it first.</br>
-###### Furthermore, it tries to consider whether its security is secure.</br>
-###### My main tech likes to make things with *React*, *TypeScript*, *Tailwind* and *Python*.</br>
-###### I'm just getting started, but I want to make a big mark on the world by making what I like.</br>
-###### I want to be a developer who grows with various people.
+##### I'm **candy3157**, a **Security Developer** based in Republic of Korea.</br>
+##### I am currently studying in the Department of Information Security at Daejeon University.</br>
+##### I make the things I imagine into reality.</br>
+##### If there is an idea that comes to my mind, I try to make it first.</br>
+##### Furthermore, it tries to consider whether its is secure.</br>
+##### My main tech likes to make things with *React*, *TypeScript*, *Tailwind* and *Python*.</br>
+##### I'm just getting started, but I want to make a big mark on the world by making what I like.</br>
+##### I want to be a developer who grows with various people.
 
 <!--
 **candy3157/candy3157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
