@@ -1,5 +1,5 @@
 ### Hi there 👋</br>
-I'm **candy3157**, a **Security Developer** based in Republic of Korea.</br>
+I'm **candy3157**, a **Security Developer Engineer** based in Republic of Korea.</br>
 I am currently studying in the Department of Information Security at Daejeon University.</br>
 I make the things I imagine into reality.</br>
 If there is an idea that comes to my mind, I try to make it first.</br>
