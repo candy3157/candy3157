@@ -1,24 +1,32 @@
-### Hi there 👋</br>
-I'm **candy3157**, a **Security Developer Engineer** based in Republic of Korea.</br>
-I am currently studying in the Department of Information Security at Daejeon University.</br>
-I make the things I imagine into reality.</br>
-If there is an idea that comes to my mind, I try to make it first.</br>
-Furthermore, it tries to consider whether its is secure.</br>
-My main tech likes to make things with *React*, *TypeScript*, *Tailwind* and *Python*.</br>
-I'm just getting started, but I want to make a big mark on the world by making what I like.</br>
-I want to be a developer who grows with various people.
+## 👋 About Me
 
-<!--
-**candy3157/candy3157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **candy3157**, a Security Developer Engineer based in the Republic of Korea.
 
-Here are some ideas to get you started:
+I am currently studying **Information Security** at **Daejeon University**, focusing on building secure and practical software systems.  
+I enjoy turning ideas into real-world products — whenever an idea comes to mind, I try to build it first and continuously refine it with security in mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Although I am still growing, my goal is to create meaningful software and leave a lasting impact through the things I build.  
+I aim to become a developer who grows together with diverse people and continuously improves through collaboration.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend / Full-Stack
+- **React**
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+
+### Automation
+- **Python**
+
+### Database & Infrastructure
+- **PostgreSQL**
+- **Supabase**
+
+---
+
+## 🚀 Philosophy
+
+> If an idea comes to my mind, I build it first — and then make it secure.
